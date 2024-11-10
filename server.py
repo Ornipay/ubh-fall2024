@@ -7,7 +7,7 @@ import secrets
 import hashlib
 
 mongo_client = MongoClient("mongo")
-db = mongo_client["cse312"]
+db = mongo_client["VitalsCare"]
 users_collection = db["users"]
 
 app = Flask(__name__)
