@@ -12,7 +12,7 @@ body {
 
 .register-section {
     max-width: 400px;
-    width: 100%;
+    width: 90%;
     background: #ffffff; /* White card for the form */
     padding: 40px;
     border-radius: 15px; /* Modern rounded corners */
